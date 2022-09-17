@@ -1,4 +1,4 @@
-This is a example of simple button user interaction 
+This is a example of simple user button interaction 
 
 
 Using CSS HTML.
